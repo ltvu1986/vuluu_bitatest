@@ -1,6 +1,6 @@
-Read Me
+# Read Me
 
-# Instructions
+#Instructions:
 This is technical test provided by Bita corporation "Make a crawling system to crawl products of a website"
 
 #Steps to install
