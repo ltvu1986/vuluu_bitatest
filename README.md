@@ -19,5 +19,6 @@ This is technical test provided by Bita corporation "Make a crawling system to c
 1. Type command to make crawl Lazada products listed in url "https://www.lazada.vn/locklock-flagship-store/?q=All-Products&from=wangpu&langFlag=vi&pageTypeId=2" 
   php artisan crawl:lazada-products
 
-
-Demo link: 
+#Demo link: [not available now]
+Heroku require me adding credit card for billing. Cause my credit card is currently having an issue, so I can't create an app on Heroku right now. 
+So I temporary not send you demo link 
